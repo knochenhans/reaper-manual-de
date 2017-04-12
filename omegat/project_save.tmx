@@ -4,6 +4,30 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;dc0/&gt;&lt;m1&gt;Geoffrey Francis&lt;/m1&gt;&lt;m2/&gt;&lt;m3/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="andre" changedate="20170412T203615Z" creationid="andre" creationdate="20170412T203615Z">
+        <seg>&lt;dc0/&gt;&lt;m1&gt;Geoffrey Francis&lt;/m1&gt;&lt;m2/&gt;&lt;m3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REAPER</seg>
+      </tuv>
+      <tuv lang="DE" changeid="andre" changedate="20170412T203612Z" creationid="andre" creationdate="20170412T203612Z">
+        <seg>REAPER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Up and Running: A REAPER User Guide</seg>
+      </tuv>
+      <tuv lang="DE" changeid="andre" changedate="20170412T203609Z" creationid="andre" creationdate="20170412T203609Z">
+        <seg>Es geht los: Ein REAPER-Benutzerhandbuch</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
